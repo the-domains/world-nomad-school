@@ -1,0 +1,28 @@
+name: World Nomad School
+favicon: null
+layout_spectrum: 0.9558917216490954
+typography_spectrum: 0.6578599871136248
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.33765529724769294
+  lightness: 0.9470996127929538
+  saturation: 0.265836896141991
+  rhythmicContrast: 0.05581851187162101
+purpose: []
