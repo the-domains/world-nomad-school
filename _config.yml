@@ -1,28 +1,40 @@
-name: World Nomad School
-favicon: null
 layout_spectrum: 0.91244
-typography_spectrum: 0.07588
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#ffffff'
-    - '#3f479a'
-    - '#000000'
-    - '#e9185b'
-    - '#97cc59'
+  saturation: 0
   brandStrength: 1
   lightness: 1
-  saturation: 1
+  brandColors:
+    - '#FEFEFE'
+    - '#3C489C'
+    - '#231F20'
+    - '#E82C57'
+    - '#98CA4D'
   rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.07588
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: World Nomad School
