@@ -1,6 +1,6 @@
 name: World Nomad School
 favicon: null
-layout_spectrum: 0.9558917216490954
+layout_spectrum: 0.93412
 typography_spectrum: 0.6578599871136248
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.33765529724769294
+    - '#ffffff'
+    - '#3f479a'
+    - '#000000'
+    - '#e9185b'
+    - '#97cc59'
+  brandStrength: 0.8125
   lightness: 0.9470996127929538
   saturation: 0.265836896141991
   rhythmicContrast: 0.05581851187162101
