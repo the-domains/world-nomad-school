@@ -1,4 +1,7 @@
-layout_spectrum: 0.91244
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,7 +21,7 @@ collections:
 purpose: []
 color:
   saturation: 0
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   brandColors:
     - '#FEFEFE'
@@ -32,9 +35,6 @@ cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0
 favicon: null
 name: World Nomad School
