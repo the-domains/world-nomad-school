@@ -1,7 +1,7 @@
 ---
 title: Exploring learning
-datePublished: '2016-04-19T02:24:18.627Z'
-dateModified: '2016-04-18T20:03:43.169Z'
+datePublished: '2016-04-19T12:41:58.428Z'
+dateModified: '2016-04-19T12:37:36.122Z'
 author: []
 description: ''
 sourcePath: _posts/2016-04-19-exploring-learning.md
@@ -9,7 +9,16 @@ published: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+inLanguage: null
+starred: true
+keywords: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+_type: Blurb
 
 ---
 # Exploring learning
