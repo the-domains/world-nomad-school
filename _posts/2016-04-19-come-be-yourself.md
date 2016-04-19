@@ -1,14 +1,14 @@
 ---
 title: Come be yourself
-datePublished: '2016-04-19T02:24:39.008Z'
-dateModified: '2016-04-18T14:39:16.452Z'
+datePublished: '2016-04-19T12:41:10.887Z'
+dateModified: '2016-04-19T12:37:45.713Z'
 author: []
 description: ''
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 authors: []
 publisher:
